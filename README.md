@@ -23,15 +23,6 @@ Cloud Security Engineer dedicated to shifting security to the left. I specialize
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bucucu&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bucucu&layout=compact&theme=dark&hide_border=true&langs_count=4" height="150" alt="languages" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 I'm always open to sharing knowledge about Cloud Security, DevSecOps pipelines, or architectural hardening. 
